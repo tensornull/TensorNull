@@ -1,13 +1,19 @@
 <div style="display: flex; align-items: center; justify-content: center;">
     <div>
+        <div align="center">
+            <a href="https://github.com/TensorNull?tab=followers">Followers</a> ·
+            <a href="https://github.com/TensorNull?tab=repositories">Repositories</a> ·
+            <a href="https://github.com/TensorNull?tab=stars">Stars</a>
+        </div>
+        <br />
         <div style="border: 1px solid #eee; border-radius: 5px;">
             <picture>
                 <source media="(prefers-color-scheme: dark)"
-                    srcset="https://raw.githubusercontent.com/TensorNull/TensorNull/output/github-contribution-grid-snake-dark.svg">
+                    srcset="https://github.com/TensorNull/TensorNull/blob/output/github-contribution-grid-snake-dark.svg?raw=1">
                 <source media="(prefers-color-scheme: light)"
-                    srcset="https://raw.githubusercontent.com/TensorNull/TensorNull/output/github-contribution-grid-snake.svg">
+                    srcset="https://github.com/TensorNull/TensorNull/blob/output/github-contribution-grid-snake.svg?raw=1">
                 <img alt="github contribution grid snake animation"
-                    src="https://raw.githubusercontent.com/TensorNull/TensorNull/output/github-contribution-grid-snake.svg">
+                    src="https://github.com/TensorNull/TensorNull/blob/output/github-contribution-grid-snake.svg?raw=1">
             </picture>
             <br />
             <br />
@@ -15,11 +21,8 @@
         <div
             style="border: 1px solid #eee; border-radius: 5px; display: flex; align-items: center; justify-content: center;">
             <span>
-                <img align="center"
-                    src='https://github-readme-stats.vercel.app/api/top-langs/?username=TensorNull&layout=compact&hide_progress=false&theme=transparent&hide_border=true' /><img
-                    align="center"
-                    src='https://github-readme-stats.vercel.app/api?username=TensorNull&rank_icon=github&theme=transparent&hide_border=true' /></span>
+                <a href="https://github.com/TensorNull?tab=repositories">View repository language usage on GitHub</a>
+            </span>
         </div>
     </div>
 </div>
-
